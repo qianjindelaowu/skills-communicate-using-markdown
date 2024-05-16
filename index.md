@@ -12,3 +12,6 @@ var myVar = "Hello, world!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- start Github Pages
+- describe my project
+- introduce myself to world
